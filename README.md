@@ -1,3 +1,11 @@
+*Noto Emoji with Catalan flag*
+
+1. It seems Google is not intending to add flags of Regions in Spain: <https://github.com/googlefonts/noto-emoji/pull/352>
+2. This modification is for personal use, more specifically, to display a Catalan flag in KDE's keyboard layout indicator, so there is country code CT as an alias, which is NOT standard.
+3. Put the file `Noto-COLRv1.ttf` in `/usr/local/share/fonts/`, it should be able to override.
+
+---
+
 ![Noto](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fab4b4276-9bb0-42a6-a675-510fcb6055df_1940x1088.png)
 # Noto Emoji
 Noto Emoji (Stands for No Tofu) is an open source (Open Font License 1.1) emoji library that provides standard Unicode emoji support and tools for working with them including:

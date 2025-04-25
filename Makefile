@@ -79,7 +79,9 @@ SELECTED_FLAGS = AC AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ \
 	XK \
 	YE YT \
 	ZA ZM ZW \
-        GB-ENG GB-SCT GB-WLS
+        GB-ENG GB-SCT GB-WLS \
+        ES-CT ES-PV \
+        CT PV # not standard
 
 ifeq (,$(shell which $(ZOPFLIPNG)))
   ifeq (,$(wildcard $(ZOPFLIPNG)))
