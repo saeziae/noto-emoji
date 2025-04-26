@@ -1,8 +1,8 @@
 *Noto Emoji with Catalan flag*
 
 1. It seems Google is not intending to add flags of Regions in Spain: <https://github.com/googlefonts/noto-emoji/pull/352>
-2. This modification is for personal use, more specifically, to display a Catalan flag in KDE's keyboard layout indicator, so there is country code CT as an alias, which is NOT standard.
-3. Put the file `Noto-COLRv1.ttf` in `/usr/local/share/fonts/`, it should be able to override.
+2. This modification is for personal use, more specifically, to display a Catalan flag in KDE's keyboard layout indicator <https://github.com/saeziae/xkb-catalan>, so there is country code CT as an alias, which is NOT standard.
+3. Put the file [NotoColorEmoji.ttf](fonts/NotoColorEmoji.ttf) in `/usr/local/share/fonts/`, it should be able to override.
 
 ---
 
